@@ -33,23 +33,23 @@ url: 'https://jiyeonnn03.github.io'
 github:
   username: jiyeonnn03             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
-
-social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
-
-google_site_verification: google_meta_tag_verification # change to your verification string
+#twitter:
+#  username: twitter_username            # change to your twitter username
+#
+#social:
+#  # Change to your full name.
+#  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+#  name: your_full_name
+#  email: example@doamin.com             # change to your email address
+#  links:
+#    # The first element serves as the copyright owner's link
+#    - https://twitter.com/username      # change to your twitter homepage
+#    - https://github.com/username       # change to your github homepage
+#    # Uncomment below to add more social links
+#    # - https://www.facebook.com/username
+#    # - https://www.linkedin.com/in/username
+#
+#google_site_verification: google_meta_tag_verification # change to your verification string
 
 # ↑ --------------------------
 
@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images@0a003683c0c3ca549d12c309f9b3e03ea20981e5'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: /assets/img/profile/profile1.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
